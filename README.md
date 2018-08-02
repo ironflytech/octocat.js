@@ -1,5 +1,8 @@
 # octocat.js
 
+Modified from SamyPesse octocat to fix npm audit issues. Test coverage is low on this, recommend using the original octocat.
+
+
 [![npm version](https://badge.fury.io/js/octocat.svg)](http://badge.fury.io/js/octocat)
 [![Build Status](https://travis-ci.org/SamyPesse/octocat.js.png?branch=master)](https://travis-ci.org/SamyPesse/octocat.js)
 
